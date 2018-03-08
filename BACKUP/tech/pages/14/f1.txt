@@ -1,0 +1,79 @@
+      <div class="horizontal-flex-row w-row">
+        <div class="column-2 w-col w-col-6" style="background-color: white">
+          <div data-ix="fade-up-1" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);">
+          	<a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer w-inline-block">
+
+          	</a>
+          	<a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer twitter w-inline-block">
+          		
+          	</a>
+            <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer insta w-inline-block">
+            	
+            </a>
+          </div>
+        </div>
+        <div data-ix="fade-up-2" class="column-3 w-col w-col-6" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);"></div>
+      </div>
+
+
+<!-- footer start -->
+
+  <div style="padding-top: 10px">
+    <div>
+      <div>
+        <div>
+          <div class="w-col w-col-6" style="opacity: 1;">
+            <a href="../index.html" class="footer-logo style-2 w-inline-block">
+              <img src="./videos_files/5a6dc12d863f200001786589_red simple.png" width="174" sizes="174px">
+            </a>
+            <p>© Element Fifty</p>
+            <p>Go to our home page <a href="../index" target="_blank" class="text-block">elementfifty</a></p>
+          </div>
+
+          <div class="w-col w-col-3">
+            <div style="opacity: 1;">
+              <a href="../index.html" class="footer-navigation">
+                Element Fifty
+              </a>
+              <a href="../tech/index.html" class="footer-navigation">
+                e50 Tech
+              </a>
+              <a href="../photo/index.html" class="footer-navigation">
+                e50 Photos
+              </a>
+              <a href="index.html" class="footer-navigation">
+                Montage Life
+              </a>
+              <a href="../ourplan.html" class="footer-navigation">
+                Our Plan
+              </a>
+                <a href="../contact.html" class="footer-navigation">
+                  Contact
+                </a>
+            </div>
+          </div>
+          <div class="w-col w-col-3">
+            <div style="opacity: 1;">
+              <a href="police.html" class="footer-navigation">
+                Police chases
+              </a>
+              <a href="fails.html" class="footer-navigation">
+                Epic fails
+              </a>
+              <a href="wins.html" class="footer-navigation">
+                Epic wins
+              </a>
+              <a href="pranks.html" class="footer-navigation">
+                Pranks
+              </a>
+              <a href="vines.html" class="footer-navigation">
+                Vines and memes
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- footer end  -->

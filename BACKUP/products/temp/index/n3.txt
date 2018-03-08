@@ -1,0 +1,7 @@
+<!--nav bar start -->
+      <div class="container-fluid w-container">
+      	<a data-ix="fade-up-on-load-3" href="http://oscars-first-project-36fcff.webflow.io/" class="brand w-nav-brand w--current" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+      		<img src="./4_files/5a6dc44610ba58000189f8b2_watermark.png" width="200" sizes="(max-width: 991px) 180px, 200px" class="logo-image">
+      	</a>
+        <nav role="navigation" class="nav-menu w-nav-menu"><a href="http://oscars-first-project-36fcff.webflow.io/" class="brand-logo-second w-inline-block w--current">
+        </a>

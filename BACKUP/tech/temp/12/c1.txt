@@ -1,0 +1,34 @@
+
+
+
+
+
+<!-- big header -->
+
+    <div class="container-fluid center intro">
+      <div data-w-id="6b26de5f-4417-b72f-64fe-b83dcd1645d1" class="align-center" style="will-change: transform, opacity; transform: translateX(0px) translateY(0px) translateZ(0px) scaleX(1) scaleY(1) scaleZ(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg); opacity: 1;">
+        <h1 data-ix="fade-up-on-load-5" class="banner-title more-biger" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+        	Welcome to - Montage Life
+        </h1>
+        <div data-ix="fade-up-on-load-6" class="top-margin less" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+          <p class="sub-text-title white biger">The home of the best montages; fails, police chases, wins, vines, etc</p>
+        </div>
+        <div data-ix="fade-up-on-load-7" class="top-margin less" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+          <a href="http://oscars-first-project-36fcff.webflow.io/#Concept" data-ix="button-overlay-on-hover" class="button white-button line w-inline-block" style="transition: all 0.3s ease 0s;">
+            <div class="button-overlay" style="transition: height 300ms; height: 0%;">
+            </div>
+            <div class="text-block-2">
+            	Trending
+        	</div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+<!-- big header -->
+
+
+
+  </div>
+
+<!-- top secion end -->

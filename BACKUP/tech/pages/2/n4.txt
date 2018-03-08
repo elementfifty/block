@@ -1,0 +1,3 @@
+        <a href="http://oscars-first-project-36fcff.webflow.io/" class="nav-link w-nav-link w--current" style="max-width: 1170px;">
+          Montage life
+        </a>

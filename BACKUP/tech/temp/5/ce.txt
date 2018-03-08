@@ -1,0 +1,69 @@
+
+
+
+  <div class="section gray less-space no-line">
+    <div class="container-fluid">
+      <div>
+        <div data-ix="fade-up-1" class="align-center" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+          <div class="sub-text-title">Montage Life</div>
+          <h1>More videos</h1></div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div data-ix="fade-up-1" class="w-dyn-list" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+      <div class="w-dyn-items w-row">
+        <div class="collection-item w-dyn-item w-col w-col-4">
+        	<a href="http://oscars-first-project-36fcff.webflow.io/project/cras-varius" class="project-wrapper w-inline-block">
+        		<img src="./Next - UI Kit Webflow Template_files/5a6b4b2e0fe9930001c8f950_port-6-1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, 33vw" srcset="http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f950_port-6-1-p-500.jpeg 500w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f950_port-6-1-p-1080.jpeg 1080w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f950_port-6-1.jpg 1500w" class="image">
+        		<div class="project-content last-bottom">
+        			<div class="meta-tag in-project">
+        				Illustration
+        			</div>
+        			<h1 class="project-title">
+        				Cras Varius
+        			</h1>
+        			<div class="div-block-2">
+        				
+        			</div>
+        		</div>
+        	</a>
+        </div>
+        <div class="collection-item w-dyn-item w-col w-col-4">
+        	<a href="http://oscars-first-project-36fcff.webflow.io/project/aenean-imperdiet" class="project-wrapper w-inline-block">
+        		<img src="./Next - UI Kit Webflow Template_files/5a6b4b2e0fe9930001c8f942_port-4-1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, 33vw" srcset="http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f942_port-4-1-p-1080.jpeg 1080w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f942_port-4-1.jpg 1500w" class="image">
+        		<div class="project-content last-bottom">
+        			<div class="meta-tag in-project">
+        				Web Design
+        			</div>
+        			<h1 class="project-title">
+        				Aenean Imperdiet
+        			</h1>
+        			<div class="div-block-2">
+        				
+        			</div>
+        		</div>
+        	</a>
+        </div>
+        <div class="collection-item w-dyn-item w-col w-col-4">
+        	<a href="http://oscars-first-project-36fcff.webflow.io/project/praesent-ackar" class="project-wrapper w-inline-block">
+        		<img src="./Next - UI Kit Webflow Template_files/5a6b4b2e0fe9930001c8f947_port-1-1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, 33vw" srcset="http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f947_port-1-1-p-500.jpeg 500w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f947_port-1-1-p-1080.jpeg 1080w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f947_port-1-1.jpg 1500w" class="image">
+        		<div class="project-content last-bottom">
+        			<div class="meta-tag in-project">
+        				Illustration
+        			</div>
+        			<h1 class="project-title">
+        				Praesent Ackar
+        			</h1>
+        			<div class="div-block-2">
+        				
+        			</div>
+        		</div>
+        	</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+

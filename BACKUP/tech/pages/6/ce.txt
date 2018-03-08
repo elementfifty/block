@@ -1,0 +1,16 @@
+      <div class="horizontal-flex-row w-row">
+        <div class="column-2 w-col w-col-6">
+          <div data-ix="fade-up-1" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);">
+          	<a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer w-inline-block">
+
+          	</a>
+          	<a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer twitter w-inline-block">
+          		
+          	</a>
+            <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="social-footer insta w-inline-block">
+            	
+            </a>
+          </div>
+        </div>
+        <div data-ix="fade-up-2" class="column-3 w-col w-col-6" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);"></div>
+      </div>

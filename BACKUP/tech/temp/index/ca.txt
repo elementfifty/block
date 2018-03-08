@@ -1,0 +1,36 @@
+
+
+
+
+
+<!-- text button image start -->
+
+  <div id="Down" class="section overflow">
+    <div class="container-fluid">
+      <div class="horizontal-flex-row w-row">
+        <div class="w-col w-col-5 w-col-stack">
+          <div>
+            <div data-ix="fade-left-1" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+              <h1>Part of Element Fifty</h1>
+              <div class="sub-text-title">The multimedia company</div>
+              <div class="top-margin">
+                <p>We collect footage from many sources and combine them into videos for you to what.</p>
+              </div>
+              <div class="top-margin">
+                <a data-ix="button-overlay-on-hover" href="http://oscars-first-project-36fcff.webflow.io/ui-elements" class="button w-inline-block" style="transition: all 0.3s ease 0s;">
+                  <div class="button-overlay"></div>
+                  <div class="text-block-2">Our favourites</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-col w-col-1 w-col-stack"></div>
+        <div class="w-col w-col-6 w-col-stack">
+        	<img src="./4_files/5a6b4b2e0fe9930001c8f8ea_agency-first.jpg" data-ix="fade-right-1" width="540" class="image more-biger with-corner" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- text button image end -->

@@ -1,0 +1,21 @@
+
+
+  <div class="section blue">
+    <div class="container-fluid">
+      <div class="align-center">
+        <h1 data-ix="fade-up-1" class="project-mind-title full" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+        	Visit Our YouTube Channel
+        </h1>
+        <p data-ix="fade-up-1" class="paragraph-white in-project-mind" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+        	Watch more of our videos
+    	</p>
+        <div data-ix="fade-up-1" class="top-margin" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+          <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-5#" data-ix="button-overlay-on-hover" class="button white-button w-inline-block" style="transition: all 0.3s ease 0s;">
+            <div class="button-overlay"></div>
+            <div class="text-block-2">Go</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+

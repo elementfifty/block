@@ -1,0 +1,72 @@
+
+  <div class="section gradient" style="border-bottom: 0;">
+    <div class="container-fluid">
+
+
+
+
+      <div class="top-title">
+        <div data-ix="fade-up-1" class="align-center" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);">
+          <div class="sub-text-title white">Montage Life</div>
+          <h1 class="heading-white">Uploads</h1></div>
+      </div>
+
+
+
+      <div>
+        <div data-ix="fade-up-1" class="w-dyn-list" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);">
+          <div class="w-dyn-items w-row">
+
+
+
+            <div class="w-dyn-item w-col w-col-6">
+              <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="project-wrapper second make-white w-inline-block">
+                <div class="div-block-3">
+                  <img src="./Next - UI Kit Webflow Template_files/5a6b4b2e0fe9930001c8f94e_port-5-1.jpg" sizes="(max-width: 479px) 83vw, (max-width: 767px) 90vw, 43vw" srcset="http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f94e_port-5-1-p-1080.jpeg 1080w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f94e_port-5-1.jpg 1500w">
+                </div>
+                <div class="project-content-second">
+                  <div class="meta-tag in-project">
+                    Web Design
+                  </div>
+                  <h1 class="project-title">
+                    Pellentesque Dapibus
+                  </h1>
+                </div>
+              </a>
+            </div>
+
+
+            <div class="w-dyn-item w-col w-col-6">
+              <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" class="project-wrapper second make-white w-inline-block">
+                <div class="div-block-3">
+                  <img src="./Next - UI Kit Webflow Template_files/5a6b4b2e0fe9930001c8f94e_port-5-1.jpg" sizes="(max-width: 479px) 83vw, (max-width: 767px) 90vw, 43vw" srcset="http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f94e_port-5-1-p-1080.jpeg 1080w, http://uploads.webflow.com/5a6b4b2e0fe9930001c8f81a/5a6b4b2e0fe9930001c8f94e_port-5-1.jpg 1500w">
+                </div>
+                <div class="project-content-second">
+                  <div class="meta-tag in-project">
+                    Web Design
+                  </div>
+                  <h1 class="project-title">
+                    Pellentesque Dapibus
+                  </h1>
+                </div>
+              </a>
+            </div>
+
+
+          </div>
+        </div>
+        <div class="top-margin less">
+          <div data-ix="fade-up-1" class="align-center" style="opacity: 0; transform: translateX(0px) translateY(60px) translateZ(0px);">
+            <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-6#" data-ix="button-overlay-on-hover" class="button white-button line w-inline-block" style="transition: all 0.3s ease 0s;">
+              <div class="button-overlay"></div>
+              <div class="text-block-2"> < Back </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+

@@ -1,0 +1,72 @@
+
+
+<div class="section gradient" style="padding-top: 0; border-top: 0; border-bottom: 0;">
+  <div class="section no-line">
+    <div class="container-fluid">
+      <div class="top-title">
+        <div data-ix="fade-up-1" class="align-center" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;  border-bottom: 0;">
+          <div class="sub-text-title" style="color: white">More</div>
+          <h1 style="color: white">Other sections</h1></div>
+      </div>
+    </div>
+    <div class="portfolio-wrapper">
+      <div data-ix="fade-up-1" class="w-dyn-list" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+        <div class="w-dyn-items w-row">
+          <div class="collection-item-4 w-dyn-item w-col w-col-4">
+            <a href="" data-ix="project-title-and-tag-on-hover" class="project-wrapper-second w-inline-block">
+              <img src="1.png" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 47vw, 28vw" class="image">
+              <div data-ix="project-overlay-on-initial" class="portfolio-overlay" style="opacity: 0; transition: opacity 300ms;">
+                <div class="portfolio-content">
+                  <h4 data-ix="move-project-title-on-initial" class="project-second-title" style="opacity: 0; transform: translateX(0px) translateY(-50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Pellentesque Dapibus
+                  </h4>
+                  <div data-ix="move-project-title-on-initial-2" class="meta-tag in-project in-overlay" style="opacity: 0; transform: translateX(0px) translateY(50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Web Design
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="collection-item-4 w-dyn-item w-col w-col-4">
+            <a href="" data-ix="project-title-and-tag-on-hover" class="project-wrapper-second w-inline-block">
+              <img src="1.png" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 47vw, 28vw" class="image">
+              <div data-ix="project-overlay-on-initial" class="portfolio-overlay" style="opacity: 0; transition: opacity 300ms;">
+                <div class="portfolio-content">
+                  <h4 data-ix="move-project-title-on-initial" class="project-second-title" style="opacity: 0; transform: translateX(0px) translateY(-50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Pellentesque Dapibus
+                  </h4>
+                  <div data-ix="move-project-title-on-initial-2" class="meta-tag in-project in-overlay" style="opacity: 0; transform: translateX(0px) translateY(50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Web Design
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="collection-item-4 w-dyn-item w-col w-col-4">
+            <a href="" data-ix="project-title-and-tag-on-hover" class="project-wrapper-second w-inline-block">
+              <img src="1.png" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 47vw, 28vw" class="image">
+              <div data-ix="project-overlay-on-initial" class="portfolio-overlay" style="opacity: 0; transition: opacity 300ms;">
+                <div class="portfolio-content">
+                  <h4 data-ix="move-project-title-on-initial" class="project-second-title" style="opacity: 0; transform: translateX(0px) translateY(-50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Pellentesque Dapibus
+                  </h4>
+                  <div data-ix="move-project-title-on-initial-2" class="meta-tag in-project in-overlay" style="opacity: 0; transform: translateX(0px) translateY(50px) translateZ(0px); transform-style: preserve-3d; transition: opacity 300ms, transform 350ms;">
+                    Web Design
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="top-margin less">
+        <div data-ix="fade-up-1" class="align-center" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 600ms, transform 600ms;">
+          <a href="index.html" data-ix="button-overlay-on-hover" class="button w-inline-block" style="transition: all 0.3s ease 0s;">
+            <div class="button-overlay"></div>
+            <div class="text-block-2">< Montage Life</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,44 @@
+
+
+    <div data-autoplay="true" data-loop="true" data-wf-ignore="true" data-poster-url="https://daks2k3a4ib2z.cloudfront.net/59bfa69c53d30a0001229753/59d66d76dc745a000185a6ab_menu-transcode-poster-00001.jpg" data-video-urls="https://uploads-ssl.webflow.com/5a6b4b2e0fe9930001c8f7e9/5a6b4b2e0fe9930001c8f8c5_menu-transcode-transcode.webm,https://uploads-ssl.webflow.com/5a6b4b2e0fe9930001c8f7e9/5a6b4b2e0fe9930001c8f8c5_menu-transcode-transcode.mp4"
+      class="background-video w-background-video w-background-video-atom"><video autoplay="" loop="" style="background-image:url(&quot;https://daks2k3a4ib2z.cloudfront.net/59bfa69c53d30a0001229753/59d66d76dc745a000185a6ab_menu-transcode-poster-00001.jpg&quot;)" data-wf-ignore="true"><source src="https://uploads-ssl.webflow.com/5a6b4b2e0fe9930001c8f7e9/5a6b4b2e0fe9930001c8f8c5_menu-transcode-transcode.webm" data-wf-ignore="true"><source src="https://uploads-ssl.webflow.com/5a6b4b2e0fe9930001c8f7e9/5a6b4b2e0fe9930001c8f8c5_menu-transcode-transcode.mp4" data-wf-ignore="true"></video>
+      <div class="video-overlay"></div>
+    </div>
+    <div class="container-fluid center second">
+      <div class="div-block-8">
+        <div class="align-center">
+          <div class="bottom-margin">
+          	<a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-5#" data-ix="fade-up-on-load-2" class="w-inline-block w-lightbox" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+          	<img src="./Next - UI Kit Webflow Template_files/5a6dc5ef92eb9700011aa83d_youtube-icon-logo-521820CDD7-seeklogo.com.png" width="108">
+          	<script type="application/json" class="w-json">{
+  			"items": [
+   			 {
+      "type": "video",
+      "originalUrl": "https://www.youtube.com/watch?v=hcE6gDJavf8",
+      "url": "https://www.youtube.com/watch?v=hcE6gDJavf8",
+      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhcE6gDJavf8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhcE6gDJavf8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhcE6gDJavf8%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hcE6gDJavf8/hqdefault.jpg",
+      "width": 940,
+      "height": 528
+    }
+  ]
+}
+			</script>
+		  </a>
+		</div>
+          <h1 data-ix="fade-up-on-load-3" class="banner-title" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+          	Video title
+      	  </h1>
+          <div data-ix="fade-up-on-load-4" class="top-margin less" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+            <p class="sub-text-title white biger">Video description</p>
+          </div>
+          <div data-ix="fade-up-on-load-5" class="top-margin less" style="opacity: 1; transform: translateX(0px) translateY(0px) translateZ(0px); transition: opacity 700ms, transform 700ms;">
+            <a href="http://oscars-first-project-36fcff.webflow.io/homepages/home-5#" data-ix="button-overlay-on-hover" class="button white-button line w-inline-block" style="transition: all 0.3s ease 0s;">
+              <div class="button-overlay" style="transition: height 300ms; height: 0%;"></div>
+              <div class="text-block-2">&lt; Back</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

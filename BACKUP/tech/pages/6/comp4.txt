@@ -1,0 +1,1 @@
+xcopy C:\Users\oscar\Desktop\dev\block\tech\pages\6\6.html C:\Users\oscar\Desktop\dev\block\tech\finished

@@ -1,0 +1,17 @@
+
+
+	<!-- item 7 -->
+          <div data-delay="0" class="w-dropdown" style="max-width: 1170px;">
+            <div class="nav-link in-dropdown w-dropdown-toggle">
+              <div class="arrow-icon w-icon-dropdown-toggle"></div>
+              <div>ELEMENT FIFTY</div>
+            </div>
+            <nav class="dropdown-list w-dropdown-list">
+              <a href="http://oscars-first-project-36fcff.webflow.io/pages/contact-1" class="dropdown-link w-dropdown-link">Element Fifty</a>
+              <a href="http://elementfifty.com/tech/index.html" class="dropdown-link w-dropdown-link">Tech</a>
+              <a href="http://elementfifty.com/photos/index.html" data-ix="show-contact-on-click" class="dropdown-link w-dropdown-link" style="transition: all 0.2s ease 0s;">Photos</a>
+              <a href="http://elementfifty.com/contact.html" class="dropdown-link w-dropdown-link">Conact us</a>
+              <a href="http://elementfifty.com/about.html" class="dropdown-link w-dropdown-link">About us</a>
+              <a href="http://elementfifty.com/comingsoon.html" class="dropdown-link w-dropdown-link">Coming soon</a>
+            </nav>
+         </div>
